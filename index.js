@@ -1,6 +1,6 @@
 class Formatter {
   static capitalize(str) {
-    return 
+    return string
   }
   
 }
